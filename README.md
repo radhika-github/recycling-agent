@@ -1,4 +1,4 @@
-# ♻️ recycling-data
+# ♻️ recycling-agent
 
 ## 🛠️ Setup Instructions
 
@@ -6,7 +6,7 @@
 
 ```bash
 git clone <your-repo-url>
-cd recycling-data
+cd recycling-agent
 ```
 
 ### 2. Create a Virtual Environment and Install Dependencies
